@@ -2,6 +2,7 @@
 
 AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 2022/10/15 随時追加予定です
+2022/10/16 2章まで公開
 
 
 ## 問題一覧
@@ -10,13 +11,13 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 |:---|:---|:---| 
 | 1章 | アルゴリズムと計算量 | [chapter1](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter1) |
 | 2章 | 累積和 | [chapter2](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2) |
-| 3章 | 二分探索 | [chapter3](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter3) |
-| 4章 | 動的計画法 | [chapter4](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4) |
-| 5章 | 数学的問題 | [chapter5](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter5) |
-| 6章 | 考察テクニック | [chapter6](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter6) |
-| 8章 | データ構造とクエリ処理 | [chapter8](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter8) |
-| 9章 | グラフアルゴリズム | [chapter9](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9) |
-| 10章 | 総合問題 | [chapter10](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter10) |
+| 3章 | 二分探索 | [chapter3](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter3) | Coming soon... |
+| 4章 | 動的計画法 | [chapter4](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4) | Coming soon... |
+| 5章 | 数学的問題 | [chapter5](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter5) | Coming soon... |
+| 6章 | 考察テクニック | [chapter6](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter6) | Coming soon... |
+| 8章 | データ構造とクエリ処理 | [chapter8](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter8) | Coming soon... |
+| 9章 | グラフアルゴリズム | [chapter9](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9) | Coming soon... |
+| 10章 | 総合問題 | [chapter10](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter10) | Coming soon... |
 
 ### A
 
