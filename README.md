@@ -29,6 +29,9 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 | [A05 Three Cards](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_e) | [A05](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter1/A05.rb) | |
 | [A06 How Many Guests?](https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_ai) | [A06](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/A06.rb) | 一次元の累積和(1) |
 | [A07 Event Attendance](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_g) | [A07](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/A07.rb) | 一次元の累積和(2) |
+| [A08 Two Dimensional Sum]() | [A08](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/A08.rb) | 二次元の累積和(1) |
+| [A09 Winter in ALGO Kingdom]() | [A09](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/A09.rb) | 二次元の累積和(2) |
+| [A10 Resort Hotel]() | [A10](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/A10.rb) | |
 | [A63  Shortest Path1](https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_an) | [A63](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/A63.rb) | 幅優先探索 |
 
 ### B
@@ -40,4 +43,6 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 | [B04 Binary Representation2](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cc) | [B04](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter1/B04.rb) | 2進法 |
 | [B06 Lottery](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ce) | [B06](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/B06.rb) | 一次元の累積和(1) |
 | [B07 Convenience Store2](https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_al) | [B07](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/B07.rb) | 一次元の累積和(2) |
+| [B08 Counting Points]() | [B08](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/B08.rb) | 二次元の累積和(1) |
+| [B09 Papers]() | [B09](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/B09.rb) | 二次元の累積和(2) |
 | [B63 幅優先探索](https://atcoder.jp/contests/tessoku-book/tasks/abc007_3) | [B63](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/B63.rb) | 幅優先探索 |
