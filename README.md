@@ -10,13 +10,13 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 |:---|:---|:---| 
 | 1章 | アルゴリズムと計算量 | [chapter1](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter1) |
 | 2章 | 累積和 | [chapter2](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2) |
-| 3章 | 二分探索 | [chapter3]() |
-| 4章 | 動的計画法 | [chapter4]() |
-| 5章 | 数学的問題 | [chapter5]() |
-| 6章 | 考察テクニック | [chapter6]() |
-| 8章 | データ構造とクエリ処理 | [chapter8]() |
-| 9章 | グラフアルゴリズム | [chapter9]() |
-| 10章 | 総合問題 | [chapter10]() |
+| 3章 | 二分探索 | [chapter3](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter3) |
+| 4章 | 動的計画法 | [chapter4](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4) |
+| 5章 | 数学的問題 | [chapter5](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter5) |
+| 6章 | 考察テクニック | [chapter6](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter6) |
+| 8章 | データ構造とクエリ処理 | [chapter8](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter8) |
+| 9章 | グラフアルゴリズム | [chapter9](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9) |
+| 10章 | 総合問題 | [chapter10](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter10) |
 
 ### A
 
@@ -39,4 +39,5 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 | [B03 Supermarket1](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cb) | [B03](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter1/B03.rb) | 全探索(2) |
 | [B04 Binary Representation2](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cc) | [B04](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter1/B04.rb) | 2進法 |
 | [B06 Lottery](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ce) | [B06](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/B06.rb) | 一次元の累積和(1) |
+| [B07 Convenience Store2](https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_al) | [B07](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/B07.rb) | 一次元の累積和(2) |
 | [B63 幅優先探索](https://atcoder.jp/contests/tessoku-book/tasks/abc007_3) | [B63](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/B63.rb) | 幅優先探索 |
