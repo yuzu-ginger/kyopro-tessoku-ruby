@@ -1,7 +1,7 @@
 ## [競技プログラミングの鉄則 Ruby版](https://atcoder.jp/contests/tessoku-book)
 
 AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
-2022/10/15 随時追加予定です
+2022/10/15 随時追加予定です<br>
 2022/10/16 2章まで公開
 
 
