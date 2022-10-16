@@ -4,8 +4,6 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 2022/10/15 随時追加予定です<br>
 2022/10/16 3章まで公開済み<br>
 
-<br>
-
 - [A問題一覧](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#a)
 - [B問題一覧](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#b)
 - [難易度順リスト(A問題)](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#%E9%9B%A3%E6%98%93%E5%BA%A6%E9%A0%86%E3%83%AA%E3%82%B9%E3%83%88a%E3%81%AE%E3%81%BF)
