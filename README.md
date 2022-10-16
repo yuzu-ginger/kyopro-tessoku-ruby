@@ -1,11 +1,19 @@
-## [競技プログラミングの鉄則 Ruby版](https://atcoder.jp/contests/tessoku-book)
+## 競技プログラミングの鉄則 演習問題集 Ruby版
+[競技プログラミングの鉄則 演習問題集](https://atcoder.jp/contests/tessoku-book)のRuby解法です<br>
+現在作成中です<br>
+2022/10/16 3章まで公開済み<br>
 
-AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
-2022/10/15 随時追加予定です<br>
-2022/10/16 3章まで公開済み
+- [A問題一覧](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#a)
+- [B問題一覧](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#b)
+- [難易度順リスト(A問題)](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#%E9%9B%A3%E6%98%93%E5%BA%A6%E9%A0%86%E3%83%AA%E3%82%B9%E3%83%88a%E3%81%AE%E3%81%BF)
+    - [★1](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#1)
+    - [★2](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#2)
+    - [★3](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#3)
+    - [★4](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#4)
+    - [★5](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#5)
 
-## 問題一覧
-### Chapter
+<br>
+
 | Chapter | Title | Link | |
 |:---|:---|:---|:---|
 | 1章 | アルゴリズムと計算量 | [chapter1](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter1) | |
@@ -18,6 +26,9 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 | 9章 | グラフアルゴリズム | [chapter9](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9) | Coming soon... |
 | 10章 | 総合問題 | [chapter10](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter10) | Coming soon... |
 
+<br>
+
+## 問題リスト
 ### A
 | Title | Code Link | Memo | Diff |
 |:---|:---|:---|:---|
@@ -74,6 +85,7 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 | [B24 Many Boxes](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cw) | [B24](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B24.rb) | 最長増加部分列問題 |
 | [B63 幅優先探索](https://atcoder.jp/contests/tessoku-book/tasks/abc007_3) | [B63](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/B63.rb) | 幅優先探索 |
 
+<br>
 
 ## 難易度★順リスト(Aのみ)
 ### ★1
@@ -115,7 +127,7 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 | [A21 Block Game](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_u) | [A21](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/A21.rb) | 二次元のDP(4):区間DP | ★4 |
 | [A22 Sugoroku](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_v) | [A22](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/A22.rb) | 遷移形式の工夫 | ★4 |
 
-#### ★5
+### ★5
 | Title | Code Link | Memo | Diff |
 |:---|:---|:---|:---|
 | [A14 Four Boxes](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_n) | [A14](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter3/A14.rb) | 半分全列挙 | ★5 |
