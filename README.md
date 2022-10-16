@@ -3,6 +3,7 @@
 AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 2022/10/15 随時追加予定です<br>
 2022/10/16 3章まで公開済み<br>
+
 <br>
 
 - [A問題一覧](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#a)
@@ -14,6 +15,7 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
     - [★4](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#4)
     - [★5](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#5)
 
+<br>
 
 | Chapter | Title | Link | |
 |:---|:---|:---|:---|
@@ -27,6 +29,7 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 | 9章 | グラフアルゴリズム | [chapter9](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9) | Coming soon... |
 | 10章 | 総合問題 | [chapter10](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter10) | Coming soon... |
 
+<br>
 
 ## 問題リスト
 ### A
@@ -85,6 +88,7 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 | [B24 Many Boxes](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cw) | [B24](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B24.rb) | 最長増加部分列問題 |
 | [B63 幅優先探索](https://atcoder.jp/contests/tessoku-book/tasks/abc007_3) | [B63](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/B63.rb) | 幅優先探索 |
 
+<br>
 
 ## 難易度★順リスト(Aのみ)
 ### ★1
