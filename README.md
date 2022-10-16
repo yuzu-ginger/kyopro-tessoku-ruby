@@ -1,7 +1,6 @@
-## [競技プログラミングの鉄則 Ruby版](https://atcoder.jp/contests/tessoku-book)
-
-AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
-2022/10/15 随時追加予定です<br>
+## 競技プログラミングの鉄則 演習問題集 Ruby版
+[競技プログラミングの鉄則 演習問題集](https://atcoder.jp/contests/tessoku-book)のRuby解法です<br>
+現在作成中です<br>
 2022/10/16 3章まで公開済み<br>
 
 - [A問題一覧](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#a)
