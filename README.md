@@ -1,4 +1,5 @@
-## 競技プログラミングの鉄則 演習問題集 Ruby版
+# 競技プログラミングの鉄則 演習問題集 Ruby版
+## 概要
 [競技プログラミングの鉄則 演習問題集](https://atcoder.jp/contests/tessoku-book)のRuby解法です<br>
 書籍　[競技プログラミングの鉄則](https://book.mynavi.jp/ec/products/detail/id=131288)<br>
 <br>
