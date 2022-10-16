@@ -74,13 +74,18 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 | [B24 Many Boxes](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cw) | [B24](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B24.rb) | 最長増加部分列問題 |
 | [B63 幅優先探索](https://atcoder.jp/contests/tessoku-book/tasks/abc007_3) | [B63](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/B63.rb) | 幅優先探索 |
 
+
 ## 難易度★順リスト(Aのみ)
 ### ★1
+| Title | Code Link | Memo | Diff |
+|:---|:---|:---|:---|
 | [A01 The First Problem](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_a) | [A01](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter1/A01.rb) | | ★1 |
 | [A02 Linear Search](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_b) | [A02](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter1/A02.rb) | 全探索(1) | ★1 |
 | [A03 Two Cards](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_c) | [A03](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter1/A03.rb) | 全探索(2) | ★1 |
 
 ### ★2
+| Title | Code Link | Memo | Diff |
+|:---|:---|:---|:---|
 | [A04 Binary Representation](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_d) | [A04](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter1/A04.rb) | 2進法 | ★2 |
 | [A05 Three Cards](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_e) | [A05](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter1/A05.rb) | | ★2 |
 | [A06 How Many Guests?](https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_ai) | [A06](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/A06.rb) | 一次元の累積和(1) | ★2 |
@@ -88,6 +93,8 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 | [A16 Dungeon1](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_p) | [A16](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/A16.rb) | 動的計画法の基本 | ★2 |
 
 ### ★3
+| Title | Code Link | Memo | Diff |
+|:---|:---|:---|:---|
 | [A07 Event Attendance](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_g) | [A07](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/A07.rb) | 一次元の累積和(2) | ★3 |
 | [A12 Printer](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_l) | [A12](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter3/A12.rb) | 答えで二分探索 | ★3 |
 | [A15 Compression](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_o) | [A15](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter3/A15.rb) | | ★3 |
@@ -98,6 +105,8 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 | [A63  Shortest Path1](https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_an) | [A63](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/A63.rb) | 幅優先探索 | ★3 |
 
 ### ★4
+| Title | Code Link | Memo | Diff |
+|:---|:---|:---|:---|
 | [A08 Two Dimensional Sum](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_h) | [A08](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/A08.rb) | 二次元の累積和(1) | ★4 |
 | [A09 Winter in ALGO Kingdom](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_i) | [A09](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/A09.rb) | 二次元の累積和(2) | ★4 |
 | [A10 Resort Hotel](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_j) | [A10](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/A10.rb) | | ★4 |
@@ -107,6 +116,8 @@ AtCoder 競技プログラミングの鉄則 演習問題集のRuby解法<br>
 | [A22 Sugoroku](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_v) | [A22](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/A22.rb) | 遷移形式の工夫 | ★4 |
 
 #### ★5
+| Title | Code Link | Memo | Diff |
+|:---|:---|:---|:---|
 | [A14 Four Boxes](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_n) | [A14](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter3/A14.rb) | 半分全列挙 | ★5 |
 | [A23 All Free](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_w) | [A23](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/A23.rb) | ビットDP | ★5 |
 | [A24 LIS](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_x) | [A24](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/A24.rb) | 最長増加部分列問題 | ★5 |
