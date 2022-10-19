@@ -1,4 +1,4 @@
-# 問題B14 Another Subset Sum
+# 問題B14 Another Subset Sum ★5
 
 n, k = gets.split.map(&:to_i)
 a = gets.split.map(&:to_i)

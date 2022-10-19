@@ -1,4 +1,4 @@
-# 問題B02 Divisor Check
+# 問題B02 Divisor Check ★1
 
 a, b = gets.split.map(&:to_i)
 ans = false

@@ -1,4 +1,4 @@
-# 問題B09 Papers
+# 問題B09 Papers ★4
 
 n = gets.to_i
 paper = n.times.map{ gets.split.map(&:to_i) }

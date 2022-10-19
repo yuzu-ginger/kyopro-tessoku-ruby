@@ -1,4 +1,4 @@
-# 問題B11 Binary Search2
+# 問題B11 Binary Search2 ★3
 
 class Array
     def count_lt(x)     # x未満の個数

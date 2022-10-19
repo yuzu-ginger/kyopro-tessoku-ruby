@@ -1,4 +1,4 @@
-# 問題B07 Convernience Store2
+# 問題B07 Convernience Store2 ★3
 
 t = gets.to_i
 n = gets.to_i

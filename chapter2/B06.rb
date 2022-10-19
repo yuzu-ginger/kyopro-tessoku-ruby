@@ -1,4 +1,4 @@
-# 問題B06 Lottery
+# 問題B06 Lottery ★2
 
 n = gets.to_i
 a = gets.split.map(&:to_i)

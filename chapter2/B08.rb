@@ -1,4 +1,4 @@
-# 問題B08 Counting Points
+# 問題B08 Counting Points ★4
 
 n = gets.to_i
 point = Array.new(1501) { Array.new(1501, 0) }
