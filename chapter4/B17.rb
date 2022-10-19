@@ -1,4 +1,4 @@
-# 問題B17 Frog1 with Restoration
+# 問題B17 Frog1 with Restoration ★3
 
 n = gets.to_i
 h = gets.split.map(&:to_i)

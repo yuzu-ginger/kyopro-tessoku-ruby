@@ -1,4 +1,4 @@
-# 問題B16 Frog1
+# 問題B16 Frog1 ★2
 
 n = gets.to_i
 h = gets.split.map(&:to_i)

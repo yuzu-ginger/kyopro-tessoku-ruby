@@ -1,4 +1,4 @@
-# 問題B18 Subset Sum with Restoration
+# 問題B18 Subset Sum with Restoration ★4
 
 n, s = gets.split.map(&:to_i)
 a = gets.split.map(&:to_i)

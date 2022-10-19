@@ -1,4 +1,4 @@
-# 問題B13 Supermarket2
+# 問題B13 Supermarket2 ★4
 
 n, k = gets.split.map(&:to_i)
 a = gets.split.map(&:to_i)
