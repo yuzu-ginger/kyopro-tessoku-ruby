@@ -4,7 +4,7 @@
 書籍　[競技プログラミングの鉄則](https://book.mynavi.jp/ec/products/detail/id=131288)<br>
 <br>
 現在作成中です<br>
-2022/10/16 3章まで公開済み<br>
+2022/10/21 4.6節(A21, B21)まで公開済み<br>
 
 - [A問題一覧](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#a)
 - [B問題一覧](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main#b)
