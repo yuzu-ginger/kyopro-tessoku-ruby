@@ -82,7 +82,7 @@
 | [B17 Frog1 with Restroration](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cp) | [B17](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B17.rb) | 動的計画法の復元 | ★3 |
 | [B18 Subset Sum with Restroration](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cq) | [B18](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B18.rb) | 二次元のDP(1):部分和問題 | ★4 |
 | [B19 Knapsack2](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cr) | [B19](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B19.rb) | 二次元のDP(2):ナップザック問題 | ★4 |
-| [B20 Edit Distance](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cs) | [B20](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B20.rb) | 二次元のDP(3):最長共通部分列問題 | ★6 |
+| [B20 Edit Distance](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cs) | [B20](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B20.cr) | 二次元のDP(3):最長共通部分列問題 | ★6 |
 | [B21 Longest Subpalindrome](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ct) | [B21](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B21.rb) | 二次元のDP(4):区間DP | ★6 |
 | [B22 Dugeon1(配るDP)](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_p) | [B22](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B22.rb) | 遷移形式の工夫 | ★3 |
 | [B23 Traveling Salesman Problem](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cv) | [B23](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B23.rb) | ビットDP | ★5 |
@@ -162,5 +162,5 @@
 ### ★6
 | Title | Code Link | Memo | Diff |
 |:---|:---|:---|:---|
-| [B20 Edit Distance](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cs) | [B20](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B20.rb) | 二次元のDP(3):最長共通部分列問題 | ★6 |
+| [B20 Edit Distance](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cs) | [B20](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B20.cr) | 二次元のDP(3):最長共通部分列問題 | ★6 |
 | [B21 Longest Subpalindrome](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ct) | [B21](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B21.rb) | 二次元のDP(4):区間DP | ★6 |
