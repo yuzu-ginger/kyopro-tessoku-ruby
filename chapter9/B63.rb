@@ -1,4 +1,4 @@
-# 問題B63 幅優先探索
+# 問題B63 幅優先探索 ★4
 
 r, c = gets.split.map(&:to_i)
 sx, sy = gets.split.map{|x| x.to_i - 1 }

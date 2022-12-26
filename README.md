@@ -61,6 +61,7 @@
 | [A23 All Free](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_w) | [A23](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/A23.rb) | ビットDP | ★5 |
 | [A24 LIS](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_x) | [A24](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/A24.rb) | 最長増加部分列問題 | ★5 |
 | [A25 Number of Routes](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_y) | [A25](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/A25.rb) | | ★3 |
+| [A62 Depth First Search](https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_am) | [A62](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/A62.rb) | 深さ先探索 | ★3 |
 | [A63  Shortest Path1](https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_an) | [A63](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/A63.rb) | 幅優先探索 | ★3 |
 
 ### B
@@ -87,6 +88,7 @@
 | [B22 Dugeon1(配るDP)](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_p) | [B22](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B22.rb) | 遷移形式の工夫 | ★3 |
 | [B23 Traveling Salesman Problem](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cv) | [B23](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B23.rb) | ビットDP | ★5 |
 | [B24 Many Boxes](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cw) | [B24](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B24.rb) | 最長増加部分列問題 | ★5 |
+| [B62 Print a Path](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ei) | [B62](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/B62.rb) | 深さ優先探索 | ★4 |
 | [B63 幅優先探索](https://atcoder.jp/contests/tessoku-book/tasks/abc007_3) | [B63](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/B63.rb) | 幅優先探索 | ★4 |
 
 <br>
@@ -125,6 +127,7 @@
 | [A18 Subset Sum](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_r) | [A18](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/A18.rb) | 二次元のDP(1):部分和問題 | ★3 |
 | [A19 Knapsack1](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_s) | [A19](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/A19.rb) | 二次元のDP(2):ナップザック問題 | ★3 |
 | [A25 Number of Routes](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_y) | [A25](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/A25.rb) | | ★3 |
+| [A62 Depth First Search](https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_am) | [A62](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/A62.rb) | 深さ先探索 | ★3 |
 | [A63  Shortest Path1](https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_an) | [A63](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/A63.rb) | 幅優先探索 | ★3 |
 | [B07 Convenience Store2](https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_al) | [B07](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter2/B07.rb) | 一次元の累積和(2) | ★3 |
 | [B11 Binary Search2](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cj) | [B11](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter3/B11.rb) | 配列の二分探索 | ★3 |
@@ -147,6 +150,7 @@
 | [B13 Supermarket2](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cl) | [B13](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter3/B13.rb) | しゃくとり法 | ★4 |
 | [B18 Subset Sum with Restroration](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cq) | [B18](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B18.rb) | 二次元のDP(1):部分和問題 | ★4 |
 | [B19 Knapsack2](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_cr) | [B19](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter4/B19.rb) | 二次元のDP(2):ナップザック問題 | ★4 |
+| [B62 Print a Path](https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ei) | [B62](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/B62.rb) | 深さ優先探索 | ★4 |
 | [B63 幅優先探索](https://atcoder.jp/contests/tessoku-book/tasks/abc007_3) | [B63](https://github.com/yuzu-ginger/kyopro-tessoku-ruby/tree/main/chapter9/B63.rb) | 幅優先探索 | ★4 |
 
 ### ★5
